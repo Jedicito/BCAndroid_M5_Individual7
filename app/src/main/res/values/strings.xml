@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M5_Individual7</string>
+    <string name="txv_fortalezaBaja">Contraseña de baja fuerza.</string>
+    <string name="txv_fortalezaMedia">Contraseña de fuerza mediana.</string>
+    <string name="txv_fortalezaAlta">Contraseña de fuerza Alta.</string>
+    <string name="btn_comprobar">Comprobar</string>
+    <string name="etx_contraseñaHint">Contraseña</string>
+</resources>
